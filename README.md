@@ -1,1 +1,1 @@
-# fatwoof.github.io
+# Central Texas Disc Golf Community
