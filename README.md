@@ -5,9 +5,7 @@ Welcome to the landing page of the Central Texas Disc Golf Community (CTDGC) Dis
 Our purpose is to foster a thriving disc golf community where you can meet fellow golfers, engage in insightful conversations, stay updated on news and events, and grow together.
 
 ### "What's Discord?"
-Discord is a communication platform that combines text, voice, and video chat for seamless community interactions. It's chosen by disc golf communities for its user-friendly interface, focus on community engagement, and versatile communication options. You can access our community through the Discord mobile app, desktop application, or any web browser.
-
-#### Features
+Discord is a communication platform that combines text, voice, and video chat for seamless community interactions. It's chosen by disc golf communities for its user-friendly interface, focus on community engagement, and versatile communication options. You can access our community through the Discord mobile app, desktop application, or any web browser. Discord offers:
 
 1. Distraction-Free Disc Golf Focus: Enjoy a dedicated space for disc golf discussions, free from unrelated content and distractions commonly found on other platforms.
 2. Seamless Organization and Event Planning: Utilize dedicated channels to schedule and coordinate disc golf meetups, ensuring efficient organization and hassle-free event planning.
@@ -43,9 +41,9 @@ Easily join and invite others to rounds of disc golf, even on short notice. Whet
 # Join the community today!
 Joining the community is as easy as ordering take-out or signing up for a tournament. 
 
-## Here's How
+### Here's How
 Follow these three steps and you'll arrive in no time. 
 
-1. Create a Discord account by [registering here](https://discord.com/register){:target="_blank" rel="noopener"}, if you don't already have one. _The link redirects to https://discord.com/register._
-2. Login to your new account using Discord's mobile app, desktop app, or any web browser.
+1. Create a Discord account by [registering here](https://discord.com/register){:target="_blank" rel="noopener"}, if you don't already have one. _The link opens to https://discord.com/register.
+2. Login to your new account using Discord's mobile app, desktop app, or any web browser. You'll use your account email and the password you set.
 3. Open [our community's invite link](https://discord.gg/DdHFhU4K5W){:target="_blank" rel="noopener"}. _Invite code is DdHFhU4K5W_
