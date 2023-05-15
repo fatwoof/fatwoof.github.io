@@ -46,8 +46,6 @@ Easily join and invite others to rounds of disc golf, even on short notice. Whet
 
 Joining the community is as easy as ordering take-out or signing up for a tournament. 
 
-1. [Create a Discord account](https://discord.com/register)
-2. <a href="https://discord.com/register/">Create a Discord account</a>
-3. Create a Discord account by [registering here](https://discord.com/register){:target="_blank" rel="noopener"}
-4. Login to Discord using their mobile app, desktop app, or web browser
-5. Visit [CTDGC's invite link](https://discord.gg/DdHFhU4K5W)
+1. Create a Discord account by [registering here](https://discord.com/register){:target="_blank" rel="noopener"}.
+2. Login to your new account using Discord's mobile app, desktop app, or any web browser.
+3. Open [our community's invite link](https://discord.gg/DdHFhU4K5W){:target="_blank" rel="noopener"}.
