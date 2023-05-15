@@ -13,7 +13,7 @@ Discord is a communication platform that combines text, voice, and video chat fo
 2. Seamless Organization and Event Planning: Utilize dedicated channels to schedule and coordinate disc golf meetups, ensuring efficient organization and hassle-free event planning.
 3. User-Friendly Interface: Benefit from Discord's intuitive and immersive interface, designed specifically for community interactions, making it easy to connect and engage with fellow disc golfers.
 
-### Unlocking the Power of Disc Golf Community: Benefits of Joining Us on Discord
+### Benefits of Joining Us on Discord
 
 * Engage in real-time discussions and exchange valuable insights with fellow disc golf enthusiasts. 
 * Participate in the local disc golf community without the need for a Facebook account.
@@ -21,8 +21,21 @@ Discord is a communication platform that combines text, voice, and video chat fo
 * Join/host virtual watch parties for disc golf coverage and media. Live stream your event to connect and include others who couldn't attend.
 * Engage in voice chat sessions to have interactive conversations while discussing strategies or planning meetups.
 
-# Features
+# Community Features
+
+### Customized Channels
+Discord's channel feature allows for organized communication by categorizing discussions into specific topics. Channels are particularly beneficial for larger communities as they provide dedicated areas for focused conversations. In the initial stages, a limited number of channels are intentionally set up to promote simplicity and foster stronger connections. As the need arises for dedicated spaces to discuss specific topics, additional channels can be added to accommodate those needs.
+
+### Event Promotion
+Text here
+
+### Casual and Cash-round Invites
+How often are you scrambling to find others to play a last-minute round with? 
 
 # What others are saying
+
+> "Discord is great"
+
+> "I love it"
 
 # Join the community today!
