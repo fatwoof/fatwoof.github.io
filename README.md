@@ -41,11 +41,11 @@ Easily join and invite others to rounds of disc golf, even on short notice. Whet
 > Facebook is great and all, but half my friends don't have one for whatever reason. With Discord, I don't have to comporomise my privacy/security to participate in the disc golf community.
 
 # Join the community today!
-
-## Here's How
-
 Joining the community is as easy as ordering take-out or signing up for a tournament. 
 
-1. Create a Discord account by [registering here](https://discord.com/register){:target="_blank" rel="noopener"}.
+## Here's How
+Follow these three steps and you'll arrive in no time. 
+
+1. Create a Discord account by [registering here](https://discord.com/register){:target="_blank" rel="noopener"}, if you don't already have one. _The link redirects to https://discord.com/register._
 2. Login to your new account using Discord's mobile app, desktop app, or any web browser.
-3. Open [our community's invite link](https://discord.gg/DdHFhU4K5W){:target="_blank" rel="noopener"}.
+3. Open [our community's invite link](https://discord.gg/DdHFhU4K5W){:target="_blank" rel="noopener"}. _Invite code is DdHFhU4K5W_
