@@ -4,10 +4,10 @@ Welcome to the landing page of the Central Texas Disc Golf Community (CTDGC) Dis
 ### Purpose
 Our purpose is to foster a thriving disc golf community where you can meet fellow golfers, engage in insightful conversations, stay updated on news and events, and grow together.
 
-### What's Discord?
+### "What's Discord?"
 Discord is a communication platform that combines text, voice, and video chat for seamless community interactions. It's chosen by disc golf communities for its user-friendly interface, focus on community engagement, and versatile communication options. You can access our community through the Discord mobile app, desktop application, or any web browser.
 
-**Discord offers:**
+#### Features
 
 1. Distraction-Free Disc Golf Focus: Enjoy a dedicated space for disc golf discussions, free from unrelated content and distractions commonly found on other platforms.
 2. Seamless Organization and Event Planning: Utilize dedicated channels to schedule and coordinate disc golf meetups, ensuring efficient organization and hassle-free event planning.
