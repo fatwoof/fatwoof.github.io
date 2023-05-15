@@ -15,6 +15,7 @@ Discord is a communication platform that combines text, voice, and video chat fo
 
 ### Unlocking the Power of Disc Golf Community: Benefits of Joining Us on Discord
 
-* Engage in real-time discussions and exchange valuable insights with fellow disc golf enthusiasts.
+* Engage in **real-time discussions** and exchange valuable insights with fellow disc golf enthusiasts. No Facebook account needed!
+* Meet other disc golfers in your area. Easily grow your bag/tag friend group, find more competition, or promote your brand or event.  
 * Participate in voice chat sessions to have interactive conversations while discussing strategies or planning meetups.
-* Attend virtual watch parties for disc golf coverage and media.
+* Join/host virtual watch parties for disc golf coverage and media. Live stream your event to connect and include others who couldn't attend.
