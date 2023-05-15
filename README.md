@@ -17,14 +17,14 @@ Discord is a communication platform that combines text, voice, and video chat fo
 
 * Engage in real-time discussions and exchange valuable insights with other disc golf enthusiasts. 
 * Participate in the local disc golf community without the need for a Facebook account.
-* Meet other disc golfers in your area. Easily grow your bag/tag friend group, find more competition, or promote your brand or event.  
+* Meet other disc golfers in your area. Easily grow your player circle, find more competition, or promote your brand or event.  
 * Join/host virtual watch parties for disc golf coverage and media. Live stream your event to connect and include others who couldn't attend.
 * Engage in voice chat sessions to have interactive conversations while discussing strategies or planning meetups.
 
 # Community Features
 
 ### Customized Channels
-Discord's channel feature allows for organized communication by categorizing discussions into specific topics. Channels are particularly beneficial for larger communities as they provide dedicated areas for focused conversations. In the initial stages, a limited number of channels are intentionally set up to promote simplicity and foster stronger connections. As the need arises for dedicated spaces to discuss specific topics, additional channels can be added to accommodate those needs.
+Discord's channel feature allows for organized communication by categorizing discussions into specific topics. Channels are particularly beneficial for larger communities as they provide dedicated areas for focused conversations. In the initial stages, a limited number of channels are set up to promote simplicity and foster stronger connections. As the need arises for dedicated spaces to discuss specific topics, additional channels can be added to accommodate those needs.
 
 ### Promote and Discover Disc Golf Events
 Discord is a powerful platform for event promotion. Whether you're organizing a tournament, a casual meetup, or a special event, you can share details and engage with the community in real-time. Get the word out, reach a broader audience, and ignite excitement as you showcase your disc golf events.
@@ -34,8 +34,14 @@ Easily join and invite others to rounds of disc golf, even on short notice. Whet
 
 # What others are saying
 
-> This is soo much better for communicating with my disc golf freind group than our old group text. Now when new people join, we don't have to start a whole new message thread.  
+> This is soo much better than our old group text. Now, when new people join, we don't have to start a whole new message thread.  
 
-> Being able to categorize discussion is so nice!
+> Yes! I can finally delete messages I accidentally send. Thanks for nothing, GroupMe
+
+> Facebook is great and all, but half my friends don't have one for whatever reason. With Discord, I don't have to comporomise my privacy/security to participate in the disc golf community.
 
 # Join the community today!
+
+## Here's How
+
+Joining the community is as easy as signing up for a tournament. Simply create a Discord account here https://discord.com/register
