@@ -48,5 +48,6 @@ Joining the community is as easy as ordering take-out or signing up for a tourna
 
 1. [Create a Discord account](https://discord.com/register)
 2. <a href="https://discord.com/register/">Create a Discord account</a>
-3. Login to Discord using their mobile app, desktop app, or web browser
-4. Visit [CTDGC's invite link](https://discord.gg/DdHFhU4K5W)
+3. [go]([http://stackoverflow.com](https://discord.com/register)){:target="_blank" rel="noopener"}
+4. Login to Discord using their mobile app, desktop app, or web browser
+5. Visit [CTDGC's invite link](https://discord.gg/DdHFhU4K5W)
