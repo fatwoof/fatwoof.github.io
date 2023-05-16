@@ -1,5 +1,5 @@
 remote_theme: pages-themes/slate@v0.2.0
-title: Join the Central Texas Disc Golf Community Discord today!
-description: The hub for Central Texas disc golfers to meet, chat, and grow
+title: Central Texas Disc Golf Community
+description: The hub for Central Texas disc golfers to meet, chat, and grow. Accesible on Discord.
 kramdown:
   input: Kramdown
