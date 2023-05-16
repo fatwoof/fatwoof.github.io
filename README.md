@@ -42,8 +42,12 @@ Joining the community is as easy as ordering take-out or signing up for a tourna
 
 ### Follow these three steps
 
-1. Create a Discord account by [registering here](https://discord.com/register){:target="_blank" rel="noopener"}, if you don't already have one. _The link opens to https://discord.com/register._
-2. Login to your new account using Discord's mobile app, desktop app, or any web browser. You'll use the email and the password you set to login.
-3. Open [our community's invite link](https://discord.gg/DdHFhU4K5W){:target="_blank" rel="noopener"}. 
+1. Create a Discord account by [registering here](https://discord.com/register){:target="_blank" rel="noopener"}. If you already have an account, skip this step.
+
+_The link opens to https://discord.com/register._
+3. Login to your new account using Discord's mobile app, desktop app, or any web browser. 
+
+You'll use the email and the password you set to login.
+5. Open [our community's invite link](https://discord.gg/DdHFhU4K5W){:target="_blank" rel="noopener"}. 
 
 _If you need it, the invite link is https://discord.gg/DdHFhU4K5W and the invite code is DdHFhU4K5W_
