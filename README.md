@@ -49,4 +49,4 @@ _The link opens to https://discord.com/register._
 You'll use the email and the password you set to login.
 
 3. Open [our community's invite link](https://discord.gg/DdHFhU4K5W){:target="_blank" rel="noopener"}. 
-_If you need it, the invite link is https://discord.gg/DdHFhU4K5W and the invite code is DdHFhU4K5W_
+_If you need it, the invite link is https://discord.gg/DdHFhU4K5W or use invite code DdHFhU4K5W_
