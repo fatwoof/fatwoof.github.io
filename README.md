@@ -1,17 +1,16 @@
 # Introduction
-Welcome to the landing page of the Central Texas Disc Golf Community (CTDGC) Discord! We bring together disc golfers of all skill levels across Central Texas to connect, discuss, and share experiences.
+Welcome to the landing page of the Central Texas Disc Golf Community (CTDGC)! We bring together disc golfers of all skill levels across Central Texas to connect, discuss, and share experiences.
 
-### Purpose
 Our purpose is to foster a thriving disc golf community where you can meet fellow golfers, engage in insightful conversations, stay updated on news and events, and grow together.
 
-### "What's Discord?"
+### Community Platform
 Discord is a communication platform that combines text, voice, and video chat for seamless community interactions. It's chosen by disc golf communities for its user-friendly interface, focus on community engagement, and versatile communication options. You can access our community through the Discord mobile app, desktop application, or any web browser. Discord offers:
 
 1. Distraction-Free Disc Golf Focus: Enjoy a dedicated space for disc golf discussions, free from unrelated content and distractions commonly found on other platforms.
 2. Seamless Organization and Event Planning: Utilize dedicated channels to schedule and coordinate disc golf meetups, ensuring efficient organization and hassle-free event planning.
 3. User-Friendly Interface: Benefit from Discord's intuitive and immersive interface, designed specifically for community interactions, making it easy to connect and engage with fellow disc golfers.
 
-### Benefits of Joining Us on Discord
+### Reasons to Join
 
 * Engage in real-time discussions and exchange valuable insights with other disc golf enthusiasts. 
 * Participate in the local disc golf community without the need for a Facebook account.
@@ -30,7 +29,7 @@ Discord is a powerful platform for event promotion. Whether you're organizing a 
 ### Experience Seamless Round Organization
 Easily join and invite others to rounds of disc golf, even on short notice. Whether you're planning a spontaneous outing or looking for someone to join you last-minute, Discord's instant communication and notification features enable you to connect with fellow golfers swiftly and efficiently. Don't miss out on exciting rounds and the chance to build new connections within the Central Texas disc golf community — just a few clicks and you're ready to hit the course together.
 
-# What others are saying
+# Word on the street
 
 > This is soo much better than our old group text. Now, when new people join, we don't have to start a whole new message thread.  
 
@@ -38,12 +37,13 @@ Easily join and invite others to rounds of disc golf, even on short notice. Whet
 
 > Facebook is great and all, but half my friends don't have one for whatever reason. With Discord, I don't have to comporomise my privacy/security to participate in the disc golf community.
 
-# Join the community today!
-Joining the community is as easy as ordering take-out or signing up for a tournament. 
+# Interested in Joing?
+Joining the community is as easy as ordering take-out or signing up for a tournament, except it's **completely free**. 
 
-### Here's How
-Follow these three steps and you'll arrive in no time. 
+### Follow these three steps
 
 1. Create a Discord account by [registering here](https://discord.com/register){:target="_blank" rel="noopener"}, if you don't already have one. _The link opens to https://discord.com/register._
-2. Login to your new account using Discord's mobile app, desktop app, or any web browser. You'll use your account email and the password you set.
-3. Open [our community's invite link](https://discord.gg/DdHFhU4K5W){:target="_blank" rel="noopener"}. _Invite code is DdHFhU4K5W_
+2. Login to your new account using Discord's mobile app, desktop app, or any web browser. You'll use the email and the password you set to login.
+3. Open [our community's invite link](https://discord.gg/DdHFhU4K5W){:target="_blank" rel="noopener"}. 
+
+_If you need it, the link is https://discord.gg/DdHFhU4K5W, and the invite code is DdHFhU4K5W_
