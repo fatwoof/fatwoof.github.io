@@ -7,12 +7,12 @@ Our purpose is to foster a thriving disc golf community where you can meet fello
 Discord is a communication platform that combines text, voice, and video chat for seamless community interactions. It's chosen by disc golf communities for its user-friendly interface, focus on community engagement, and versatile communication options. You can access our community through the Discord mobile app, desktop application, or any web browser. Discord offers:
 
 1. Distraction-Free Disc Golf Focus: Enjoy a dedicated space for disc golf discussions, free from unrelated content and distractions commonly found on other platforms.
-2. Seamless Organization and Event Planning: Utilize dedicated channels to schedule and coordinate disc golf meetups, ensuring efficient organization and hassle-free event planning.
+2. Easy Organization and Event Planning: Utilize dedicated channels to schedule and coordinate disc golf meetups, ensuring efficient organization and hassle-free event planning.
 3. User-Friendly Interface: Benefit from Discord's intuitive and immersive interface, designed specifically for community interactions, making it easy to connect and engage with fellow disc golfers.
 
 ### Reasons to Join
 
-* Engage in real-time discussions and exchange valuable insights with other disc golf enthusiasts. 
+* Engage in real-time discussions and exchange valuable insights with other disc golfers. 
 * Participate in the local disc golf community without the need for a Facebook account.
 * Meet other disc golfers in your area. Easily grow your player circle, find more competition, or promote your brand or event.  
 * Join/host virtual watch parties for disc golf coverage and media. Live stream your event to connect and include others who couldn't attend.
@@ -26,8 +26,8 @@ Discord's channel feature allows for organized communication by categorizing dis
 ### Promote and Discover Disc Golf Events
 Discord is a powerful platform for event promotion. Whether you're organizing a tournament, a casual meetup, or a special event, you can share details and engage with the community in real-time. Get the word out, reach a broader audience, and ignite excitement as you showcase your disc golf events.
 
-### Experience Seamless Round Organization
-Easily join and invite others to rounds of disc golf, even on short notice. Whether you're planning a spontaneous outing or looking for someone to join you last-minute, Discord's instant communication and notification features enable you to connect with fellow golfers swiftly and efficiently. Don't miss out on exciting rounds and the chance to build new connections within the Central Texas disc golf community — just a few clicks and you're ready to hit the course together.
+### Experience Simple Round Organization
+Easily join and invite others to rounds of disc golf, even on short notice. Whether you're planning a spontaneous outing or looking for someone to join you last-minute, Discord's instant communication and notification features enable you to connect with other golfers swiftly and efficiently. Don't miss out on exciting rounds and the chance to build new connections within the Central Texas disc golf community
 
 # Word on the street
 
